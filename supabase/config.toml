@@ -1,0 +1,7 @@
+project_id = "ltantdmbkumnicnszzci"
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.send-contact-email]
+verify_jwt = false
